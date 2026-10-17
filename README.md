@@ -105,13 +105,12 @@ That is the point. Keep the structure (subject + light + framing + setting + fin
 ## Related repositories
 
 - **Same model, this language** — the other half of this pair: [gpt-image-2-5-flare-api-de](https://github.com/m4izuw9fi76/gpt-image-2-5-flare-api-de)
-- **Same model, other languages** — 10 more language builds: English `gpt-image-2-5-flare-api` · 中文 `gpt-image-2-5-flare-api-cn` · Español `gpt-image-2-5-flare-api-es` · Français `gpt-image-2-5-flare-api-fr` · Relay/gateway `gpt-image-2-5-flare-api-gateway` · Bahasa [gpt-image-2-5-flare-api-id](https://github.com/zcb3y0r0v468wg/gpt-image-2-5-flare-api-id) · 日本語 `gpt-image-2-5-flare-api-ja` · 한국어 `gpt-image-2-5-flare-api-ko` · Português `gpt-image-2-5-flare-api-pt` · Русский `gpt-image-2-5-flare-api-ru`
+- **Same model, other languages** — 10 more language builds: English `gpt-image-2-5-flare-api` · 中文 `gpt-image-2-5-flare-api-cn` · Español [gpt-image-2-5-flare-api-es](https://github.com/xctnd3o4yv/gpt-image-2-5-flare-api-es) · Français `gpt-image-2-5-flare-api-fr` · Relay/gateway `gpt-image-2-5-flare-api-gateway` · Bahasa [gpt-image-2-5-flare-api-id](https://github.com/zcb3y0r0v468wg/gpt-image-2-5-flare-api-id) · 日本語 `gpt-image-2-5-flare-api-ja` · 한국어 [gpt-image-2-5-flare-api-ko](https://github.com/ikhyz/gpt-image-2-5-flare-api-ko) · Português `gpt-image-2-5-flare-api-pt` · Русский `gpt-image-2-5-flare-api-ru`
 - **More models in this language** — [midjourney-api-de](https://github.com/h5fd0cofy/midjourney-api-de) · [gemini-2-5-flash-image-preview-api-de](https://github.com/kn6f69s2b8j9/gemini-2-5-flash-image-preview-api-de) · [nano-banana-api-de](https://github.com/uh6cob8op/nano-banana-api-de) · [gemini-3-1-flash-image-preview-api-de](https://github.com/k8wq8pd46e5ku/gemini-3-1-flash-image-preview-api-de) · [nano-banana-2-api-de](https://github.com/mocpl3/nano-banana-2-api-de) · [gemini-3-pro-image-preview-api-de](https://github.com/cmpxx2w/gemini-3-pro-image-preview-api-de)
 - **Topic hubs** — every build of this model, all languages: [gpt-image-2-5-flare](https://github.com/topics/gpt-image-2-5-flare) · [gpt-image-2-5-flare-api](https://github.com/topics/gpt-image-2-5-flare-api)
 
 This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
 <!-- /related-repos:auto -->
-
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
